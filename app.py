@@ -55,15 +55,15 @@ START_BUTTONS = InlineKeyboardMarkup(
     [
         [
             InlineKeyboardButton(
-               "👥 Official Group", url=f"https://t.me/{GROUP_SUPPORT}"
+               "👥 Official Group", url=f"https://t.me/UNIQUE_SOCIETY"
             ),
             InlineKeyboardButton(
-               "📣 Official Channel", url=f"https://t.me/{UPDATES_CHANNEL}"
+               "📣 Official Channel", url=f"https://t.me/UNIQUE_SOCIETY"
             ),
          ],
          [
              InlineKeyboardButton(
-                "🌐 Source Code", url="https://github.com/levina-lab/video-stream"
+                "🌐 Source Code", url="https://t.me/log_afk"
             )
          ],
       ]
