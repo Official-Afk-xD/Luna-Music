@@ -46,20 +46,29 @@ CHATS = []
 
 OWNER_ID = int(os.environ["OWNER_ID"])
 
-PM_START_TEXT = """
-ʜᴏɪ, ɪ ᴍ ᴛɢɴ ʀᴏʙᴏᴛ
-`ɪ'ᴍ ʜᴇʀᴇ ᴛᴏ ʜᴇʟᴘ ʏᴏᴜ ᴛᴏ ᴍᴀɴᴀɢᴇ ʏᴏᴜʀ ɢʀᴏᴜᴘꜱ ᴀɴᴅ ɪ ᴍ ᴠᴇʀʏ ᴘᴏᴡᴇʀꜰᴜʟʟ ʙᴏᴛ! ʜɪᴛ` /help
- [❤](https://telegra.ph/file/cab6825dea9263d347831.jpg)
+START_TEXT = """
+𝐇𝐢 <b>{}</b> 👋
+𝐈 𝐜𝐚𝐧 𝐩𝐥𝐚𝐲 𝐦𝐮𝐬𝐢𝐜 𝐢𝐧 𝐓𝐞𝐥𝐞𝐠𝐫𝐚𝐦 𝐠𝐫𝐨𝐮𝐩 𝐯𝐨𝐢𝐜𝐞 𝐜𝐡𝐚𝐭𝐬. 
+<i>𝐎𝐧𝐥𝐲 𝐦𝐲 𝐨𝐰𝐧𝐞𝐫 𝐜𝐚𝐧 𝐨𝐩𝐞𝐫𝐚𝐭𝐞 𝐦𝐞. 𝐌𝐚𝐤𝐞 𝐲𝐨𝐮𝐫 𝐨𝐰𝐧 𝐛𝐨𝐭 𝐟𝐫𝐨𝐦 𝐭𝐡𝐞 𝐬𝐨𝐮𝐫𝐜𝐞 𝐜𝐨𝐝𝐞.</i>
 """
-
 START_BUTTONS = InlineKeyboardMarkup(
     [
         [
-            InlineKeyboardButton("📨 Support", url="https://t.me/UNIQUE_SOCIETY"),
-            InlineKeyboardButton("Owner ❣️", url="https://t.me/log_afk")
-        ]
-    ]
-)
+            InlineKeyboardButton(
+               "👥 Official Group", url=f"https://t.me/{GROUP_SUPPORT}"
+            ),
+            InlineKeyboardButton(
+               "📣 Official Channel", url=f"https://t.me/{UPDATES_CHANNEL}"
+            ),
+         ],
+         [
+             InlineKeyboardButton(
+                "🌐 Source Code", url="https://github.com/levina-lab/video-stream"
+            )
+         ],
+      ]
+   ),
+
 
 BUTTONS = InlineKeyboardMarkup(
     [
