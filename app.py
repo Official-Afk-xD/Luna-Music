@@ -47,15 +47,15 @@ CHATS = []
 OWNER_ID = int(os.environ["OWNER_ID"])
 
 START_TEXT = """
-𝐇𝐢 <b>{}</b> ❣️
-𝐈 𝐜𝐚𝐧 𝐩𝐥𝐚𝐲 𝐦𝐮𝐬𝐢𝐜 𝐢𝐧 𝐓𝐞𝐥𝐞𝐠𝐫𝐚𝐦 𝐠𝐫𝐨𝐮𝐩 𝐯𝐨𝐢𝐜𝐞 𝐜𝐡𝐚𝐭𝐬. 
-<i>𝐎𝐧𝐥𝐲 𝐦𝐲 𝐨𝐰𝐧𝐞𝐫 𝐜𝐚𝐧 𝐨𝐩𝐞𝐫𝐚𝐭𝐞 𝐦𝐞. 𝐌𝐚𝐤𝐞 𝐲𝐨𝐮𝐫 𝐨𝐰𝐧 𝐛𝐨𝐭 𝐟𝐫𝐨𝐦 𝐭𝐡𝐞 𝐬𝐨𝐮𝐫𝐜𝐞 𝐜𝐨𝐝𝐞.</i>
+⛦➪  Hᴇʟʟᴏ.... <b>{}</b> ❣️
+⛦➪  I Cᴀɴ Pʟᴀʏ Mᴜsɪᴄ ɪɴ Tᴇʟᴇɢʀᴀᴍ Vᴏɪᴄᴇ Cʜᴀᴛ. 
+⛦➪  Oɴʟʏ Mʏ Oᴡɴᴇʀ Cᴀɴ Oᴘᴇʀᴀᴛ Mᴇ. Aɴᴅ Jᴏɪɴ Oᴜʀ Gʀᴏᴜᴘ.
 """
 START_BUTTONS = InlineKeyboardMarkup(
     [
         [
-            InlineKeyboardButton("⚙️ 𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐞𝐫 ", url="https://t.me/Log_afk"),
-            InlineKeyboardButton("𝐒𝐨𝐮𝐫𝐜𝐞 𝐂𝐨𝐝𝐞 ⚒️", url="https://github.com/Official-afk-xD/afk-music")
+            InlineKeyboardButton("❣️ ⚘  Oɯɳҽɾ ", url="https://t.me/Log_afk"),
+            InlineKeyboardButton("Ꮐʀᴏᴜᴘ ❣️", url="https://t.me/Unique_SOCIETY")
         ]
     ]
 )
@@ -71,7 +71,7 @@ BUTTONS = InlineKeyboardMarkup(
             InlineKeyboardButton("🔊", callback_data="unmute")
         ],
         [
-            InlineKeyboardButton("🗑 Close Menu", callback_data="close")
+            InlineKeyboardButton("🔰 Տᴜᴘᴘᴏʀᴛ Ꮐʀᴏᴜᴘ 🔰", url=f"https://t.me/UNIQUE_SOCIETY"
         ]
     ]
 )
