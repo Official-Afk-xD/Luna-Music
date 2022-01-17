@@ -71,7 +71,7 @@ BUTTONS = InlineKeyboardMarkup(
             InlineKeyboardButton("🔊", callback_data="unmute")
         ],
         [
-            InlineKeyboardButton("🔰 Տᴜᴘᴘᴏʀᴛ Ꮐʀᴏᴜᴘ 🔰", url=f"https://t.me/UNIQUE_SOCIETY")
+            InlineKeyboardButton("🗑 Close Menu", callback_data="close")
         ]
     ]
 )
