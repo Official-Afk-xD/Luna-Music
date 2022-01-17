@@ -48,14 +48,16 @@ OWNER_ID = int(os.environ["OWNER_ID"])
 
 START_TEXT = """
 ⛦➪  Hᴇʟʟᴏ.... <b>{}</b> ❣️
-⛦➪  I Cᴀɴ Pʟᴀʏ Mᴜsɪᴄ ɪɴ Tᴇʟᴇɢʀᴀᴍ Vᴏɪᴄᴇ Cʜᴀᴛ. 
+
+⛦➪  I Cᴀɴ Pʟᴀʏ Mᴜsɪᴄ ɪɴ Tᴇʟᴇɢʀᴀᴍ Vᴏɪᴄᴇ Cʜᴀᴛ.
+ 
 ⛦➪  Oɴʟʏ Mʏ Oᴡɴᴇʀ Cᴀɴ Oᴘᴇʀᴀᴛ Mᴇ. Aɴᴅ Jᴏɪɴ Oᴜʀ Gʀᴏᴜᴘ.
 """
 START_BUTTONS = InlineKeyboardMarkup(
     [
         [
-            InlineKeyboardButton("❣️ ⚘  Oɯɳҽɾ ", url="https://t.me/Log_afk"),
-            InlineKeyboardButton("Ꮐʀᴏᴜᴘ ❣️", url="https://t.me/Unique_SOCIETY")
+            InlineKeyboardButton("⛦ 𝖣𝖾𝗏𝖾𝗅𝗈𝗉𝖾𝗋", url="https://t.me/Log_afk"),
+            InlineKeyboardButton("𝖲𝗎𝗉𝗉𝗈𝗋𝗍 📨", url="https://t.me/Unique_SOCIETY")
         ]
     ]
 )
