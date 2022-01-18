@@ -56,7 +56,7 @@ START_TEXT = """
 START_BUTTONS = InlineKeyboardMarkup(
     [
         [
-            InlineKeyboardButton("⛦ 𝖣𝖾𝗏𝖾𝗅𝗈𝗉𝖾𝗋", url="https://t.me/Log_afk"),
+            InlineKeyboardButton("📨 𝖣𝖾𝗏𝖾𝗅𝗈𝗉𝖾𝗋", url="https://t.me/Log_afk"),
             InlineKeyboardButton("𝖲𝗎𝗉𝗉𝗈𝗋𝗍 📨", url="https://t.me/Unique_SOCIETY")
         ]
     ]
