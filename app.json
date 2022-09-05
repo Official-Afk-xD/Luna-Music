@@ -1,9 +1,9 @@
 {
-  "name": "Afk Music Bot",
-  "description": "Bot to play songs in Telegram group voice chats. Powered by @The_Blaze_Network.",
+  "name": "Q N Music Bot",
+  "description": "Bot to play songs in Telegram group voice chats. Powered by @QUEEN_NETWORK.",
   "keywords": ["music", "voicechat", "telegram"],
   "logo": "https://telegra.ph/file/6af06eb789bc3b1eb89d1.jpg",
-  "repository": "https://github.com/Unknownvip/afk-music",
+  "repository": "https://t.me/QUEEN_NETWORK",
   "stack": "container",
   "env": {
     "SESSION_NAME": {
