@@ -3,7 +3,7 @@
   "description": "Bot to play songs in Telegram group voice chats. Powered by @The_Blaze_Network.",
   "keywords": ["music", "voicechat", "telegram"],
   "logo": "https://telegra.ph/file/6af06eb789bc3b1eb89d1.jpg",
-  "repository": "https://github.com/Unknownvip/afk-music",
+  "repository": "https://github.com/Official-Afk-xD/Luna-Music",
   "stack": "container",
   "env": {
     "SESSION_NAME": {
