@@ -3,9 +3,9 @@
 
 <p align='center'>
 <a href="https://www.python.org/" alt="made-with-python"> <img src="https://img.shields.io/badge/Made%20with-Python-1f425f.svg?style=flat-square&logo=python&color=blue"></a>
-<a href="https://github.com/Unknownvip/Afk-Music/graphs/commit-activity" alt="Maintenance"> <img src="https://img.shields.io/badge/Maintained%3F-yes-green.svg?style=flat-square"></a></p>
+<a href="https://github.com/Team-Bot2/graphs/commit-activity" alt="Maintenance"> <img src="https://img.shields.io/badge/Maintained%3F-yes-green.svg?style=flat-square"></a></p>
 
-<p align="center"><a href="https://t.me/UNIQUE_society"><img src="https://telegra.ph/file/6af06eb789bc3b1eb89d1.jpg" height="300" width="310" alt="Music Player"></p>
+<p align="center"><a href="https://t.me/Team_Bot_Support"><img src="https://telegra.ph/file/38ba5ae8821811016a349.jpg" height="300" width="310" alt="Music Player"></p>
 
 ## ✨ Heroku Deploy
 Change the app region to Europe (it will help to make the bot stable)
