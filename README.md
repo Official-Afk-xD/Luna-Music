@@ -39,6 +39,6 @@ Change the app region to Europe (it will help to make the bot stable)
 
 ## ❤️ Support
 
-<a href="https://t.me/The_Blaze_Network"><img src="https://img.shields.io/badge/Join-Telegram%20Group-blue.svg?logo=telegram" alt="Group"></a><br>
-<a href="https://t.me/Blaze_Support"><img src="https://img.shields.io/badge/Join-Telegram%20Channel-red.svg?logo=Telegram" alt="Channel"></a>
+<a href="https://t.me/Team_Bot_Support"><img src="https://img.shields.io/badge/Join-Telegram%20Group-blue.svg?logo=telegram" alt="Group"></a><br>
+<a href="https://t.me/Team_Bot_Update"><img src="https://img.shields.io/badge/Join-Telegram%20Channel-red.svg?logo=Telegram" alt="Channel"></a>
 
